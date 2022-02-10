@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CodeMasterBond</h1>  
 <h3 align="center">A passionate student and fullstack developer from Chicago</h3>  
   
-- 🌱 I’m currently learning **Vue.js**  
+- 🌱 I’m currently learning **C++**  
   
 - 👨‍💻 All of my projects are available at [https://replit.com/@CodeMaster007](https://replit.com/@CodeMaster007)  
   
