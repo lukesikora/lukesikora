@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CodeMasterBond</h1>  
+<h1 align="center">Hi 👋, I'm Luke Sikora</h1>  
 <h3 align="center">A passionate student and fullstack developer from Chicago</h3>  
   
 - 🌱 I’m currently learning **C++**  
