@@ -17,7 +17,7 @@
 
 
  <p> 
-<h2> 📈 My Stats </h2>
+<h3> 📈 My Stats </h3>
 
 ![Profile views](https://gpvc.arturio.dev/lukesikora)
 
