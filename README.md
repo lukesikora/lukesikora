@@ -21,7 +21,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/lukesikora)
 
-![stats](https://github-readme-stats.vercel.app/api?username=lukesikora&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true)
+![stats](![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukesikora&show_icons=true&theme=transparent))
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukesikora&layout=compact&theme=chartreuse-dark)
 </p>
 <!--START_SECTION:activity-->
