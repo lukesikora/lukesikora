@@ -2,22 +2,6 @@
 <h3 align="center">💻 Fullstack Developer | 🎓 Student | 📍 Chicago</h3>
 
 
----
-
-### 🌟 About Me
-
-- 🔭 I’m currently working on **personal and school projects**
-- 🌱 Learning **C++**, diving deeper into systems programming
-- 💬 Ask me about **Raspberry Pis, Linux, and automation**
-- ⚡ Fun Fact: **I play lacrosse and love building with microcontrollers**
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://replit.com/@lsikora" target="_blank">Replit Portfolio</a>
-</p>
 
 ---
 
