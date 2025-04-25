@@ -30,8 +30,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lukesikora&show_icons=true&theme=radical" alt="lukesikora stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukesikora&theme=radical" alt="lukesikora streak" />
-  <br />
+# 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukesikora&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
