@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luke Sikora</h1>
 <h3 align="center">💻 Fullstack Developer | 🎓 Student | 📍 Chicago</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lukesikora&label=Profile%20views&color=0e75b6&style=flat" alt="lukesikora" />
-</p>
 
 ---
 
