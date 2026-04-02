@@ -35,8 +35,6 @@ If you're here, you're either a dev or a potential client — either way, welcom
 
 <img src="https://github-widgetbox.vercel.app/api/skills?tools=docker,git,npm,firebase,mongodb,nodejs&includeNames=true&theme=nautilus" alt="Tools"/>
 
-<img src="https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&includeNames=true&theme=nautilus" alt="Software"/>
-
 </div>
 
 ---
