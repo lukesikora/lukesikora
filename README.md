@@ -7,9 +7,8 @@
 <br>
 
 [![Website](https://img.shields.io/badge/biznifysolutions.com-24243e?style=for-the-badge&logo=googlechrome&logoColor=A855F7)](https://biznifysolutions.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://linkedin.com/in/lukesikora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://www.linkedin.com/in/luke-sikora-66180a303/)
 [![Email](https://img.shields.io/badge/Email_Me-24243e?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:luke@biznifysolutions.com)
-[![GitHub followers](https://img.shields.io/github/followers/lukesikora?style=for-the-badge&color=24243e&labelColor=24243e&logo=github&logoColor=A855F7)](https://github.com/lukesikora)
 
 </div>
 
